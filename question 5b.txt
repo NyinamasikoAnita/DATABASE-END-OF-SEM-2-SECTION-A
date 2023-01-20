@@ -1,0 +1,7 @@
+Question 5b
+(i)	WHERE.  This clause is used to define a condition to be done in an sql statement.
+(ii)	GROUP BY. This clause is used to group related data 
+(iii)	DISTINCT. This clause is used to show different values which are not duplicates.
+(iv)	SELECT. This clause is used to extract data from a database.
+(v)	ORDER BY. This clause is used to arrange data in a database .
+

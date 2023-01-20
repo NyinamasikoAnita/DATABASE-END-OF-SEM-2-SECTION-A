@@ -1,0 +1,34 @@
+Section A
+Question 1
+(i)	Database is a collection of organized data in tables.
+(ii)	Database Management System is a software that allows to create and manage a database.
+(iii)	SQL is a standard language used in the creation and manipulation of databases.
+(iv)	Foreign key is a tuple in a relation that matches with  the primary key of another relation which shows the relationship between the two relations.
+(v)	Primary key is a candidate key that uniquely identifies a row in a table.
+
+Question 2
+A Database helps in keeping the data or information of an organization in organized way.
+A database helps in keeping the records of a company secure and confidential only accessed by a person given access.
+A database helps in keeping records safe from being lost. They can stay as long as the database is not deleted compared to the file based approach.
+A database helps in easy access and editing of an organization’s records by using the data manipulation language.
+
+
+Question 3
+Examples of relation Database management systems
+Oracle 
+Mysql
+MariaDB
+MongoDB
+Microsoft Access
+Areas where database management system are used include
+Schools, telecommunication companies, hospitals, flight and ticket booking companies, banks.
+
+QUESTION 4
+Types of relationships in a database.
+•	Cyclic. This is a relationship between many entities.
+•	tenary.  This is a relationship between three entities.
+•	Binary. This is a relationship between two entities.
+
+
+
+
